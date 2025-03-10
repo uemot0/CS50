@@ -1,4 +1,4 @@
-# CS50 2023 Solutions - Pedro Uemoto Aufieri
+# CS50 2023 Solutions
 
 This repository contains my solutions to the problem sets of Harvard's CS50 course.
 
